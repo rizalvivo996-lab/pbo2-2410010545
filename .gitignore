@@ -7,7 +7,11 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
+<<<<<<< HEAD
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
+=======
+# https://maven.apache.org/tools/wrapper/#Usage_with_or_without_Binary_JAR
+>>>>>>> a1778b25568636b52ded9ee0eb800fb8d2a48799
 .mvn/wrapper/maven-wrapper.jar
 
 # Eclipse m2e generated files
