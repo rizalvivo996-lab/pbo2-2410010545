@@ -1,0 +1,9 @@
+Jawaban Refleksi Modul 3
+1.
+- Top-level container adalah window Utama yang ditampilkan, contoh seperti JFrame
+- Intermediate container adalah container yang menyimpan component lain, contoh JPanel.
+- Atomic component adalah component yang kita gunakan untuk melakukan sesuatu atau menginput data, contoh seperti TextField dan Checkbox.
+2. Agar tiap komponen button terorganisir dan rapi.
+3. Penggunaan ComboBox digunakan ketika pilihan ada banyak namun hanya boleh satu, sama seperti RadioButton yang hanya boleh memilih satu namun pilihan terbatas.
+4. Karena yang di dalam initComponent merupakan constructor kelas, dan mengedit atau menambahkan dilakukan diluar menggunakan method.
+5. Untuk menyesuaikan tema menggunakan flatlaf daripada bawaan swing.

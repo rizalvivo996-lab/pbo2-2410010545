@@ -1,0 +1,5 @@
+Jawaban Eksperimen Modul 2:
+1. Error messagenya adalah Koleksi is abstract
+2. Jika method hitungDenda ganti jadi hitungdenda, Ketika Override masih ada maka akan muncul error menjelaskan method hitungdenda tidak ada di class Buku. Namun jika override dihapus, maka tidak terjadi apa apa.
+3. Muncul error IleggalArgumentException dimana atribut judul kosong.
+4. Enkapsulasi yang tidak konsisten.
