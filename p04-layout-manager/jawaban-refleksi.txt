@@ -1,0 +1,5 @@
+1. Menghindari Null Layout dan Absolute Layout dikarenakan keduanya memakai posisi piksel yang tetap sehinggak tampilan ui tidak menyesuaikan dan bisa terpotong.
+2.FlowLayout jika diperkecil, ia akan merubah tata elemen sedangkan GridLayout ketika diperkecil mengubah ukuran elemen menjadi kecil.
+3. Supaya form tetap rapi walaupun dilebarkan. Biasa digunakan pada kolom isian.
+4. SUpaya baris form tetap di atas saat jendela ditinggikan
+5. Kedekatan dan konsistensi. Dengan bukti dari kedekatan adalah button yang diberikan group dan label yang disesuaikan dengan kolom isian, lalu konsistensi dengan ukuran elemen dalam form yang konsisten dan rapi.

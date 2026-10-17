@@ -1,0 +1,11 @@
+Eksperimen Modul 4
+
+Praktikum 2:
+1. Susunan tombol yang semula dari kiri ke kanan, sekarang berada di tengah.Ketika ukuran window diperkecil, tombol-tombol akan turun dan menumpuk.
+2. Jumlah  barisnya menjadi 5, karena nilai rows yang diatur menjadi 0, jumlah baris tidak lagi ditentukan secara tetap.
+3. Lebar tombol melebar secara horizontal hingga menyentuh sisi kiri dan kanan window. Lalu dengan adanyan vertical strut menambahkan jarak antar field
+
+Praktikum 4:
+1. TIdak ada perubahan terlihan
+2. Isian form menempel pada bagian tengah window, berbeda dengan yang semula dapat menyesuaikan ukuran window.
+3. Komponen yang terpengaruh adalah alamat text area.
