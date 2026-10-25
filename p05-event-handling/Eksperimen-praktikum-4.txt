@@ -1,0 +1,10 @@
+1. 2 kali. Karena selain fungsi akan dipanggil 2 kali, terkadang bisa mengkonsumsi tenaga device lebih tinggi atau boros.
+2. Berikut yang diubah:
+    - Diubah pada tab design: 
+    1. GridLayout kolom dari operator panel menjadi 5
+    2. Menambahkan button modulusButton
+    3. Menambahkan event ActionPerformed pada button
+    - Diubah pada tab source:
+    1. Menambahkan perhitungan modulus pada fungsi hitung
+    2. Memasukkan fungsi hitung pada event modulusTombol
+3. Karena adanya fungsi angka1Field.requestFocusInWindow(); yang dimana ketika tombol hapus diklik akan memfokuskan kursor ke field pertama
